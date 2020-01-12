@@ -6,6 +6,8 @@ github.com/EbonJaeger/beluga v0.0.0-20200110001402-3173d68b44b8 h1:KApTnDXwL7yi0
 github.com/EbonJaeger/beluga v0.0.0-20200110001402-3173d68b44b8/go.mod h1:uLHgzQHF9c8Cb+dmQoLfh89n00CCskSmWl7/U6ccpOM=
 github.com/EbonJaeger/beluga v0.0.0-20200110170630-9c0880e6e6d9 h1:2Am6Xbs0AWLlL42dHlrsBpRZIM5sgarBRcB5Jfo+xQs=
 github.com/EbonJaeger/beluga v0.0.0-20200110170630-9c0880e6e6d9/go.mod h1:uLHgzQHF9c8Cb+dmQoLfh89n00CCskSmWl7/U6ccpOM=
+github.com/EbonJaeger/beluga v0.0.0-20200110194654-0e2a2619b03c h1:EfvnK3JOCwpVXjkIOASJVyEeQtxZvxU7cswmrssK29s=
+github.com/EbonJaeger/beluga v0.0.0-20200110194654-0e2a2619b03c/go.mod h1:uLHgzQHF9c8Cb+dmQoLfh89n00CCskSmWl7/U6ccpOM=
 github.com/bwmarrin/discordgo v0.20.2 h1:nA7jiTtqUA9lT93WL2jPjUp8ZTEInRujBdx1C9gkr20=
 github.com/bwmarrin/discordgo v0.20.2/go.mod h1:O9S4p+ofTFwB02em7jkpkV8M3R0/PUVOwN61zSZ0r4Q=
 github.com/golang/lint v0.0.0-20181217174547-8f45f776aaf1/go.mod h1:tluoj9z5200jBnyusfRPU2LqT6J+DAorxEvtC7LHB+E=
